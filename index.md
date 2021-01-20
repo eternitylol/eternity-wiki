@@ -38,7 +38,7 @@ Before pasting your webhook id and texting me or anyone else make sure you check
 If you notice something isn't working, use debug mode or dm anyone that has Owner/Admin/Helper role. And then dm me so I would include it here :trollface:
 
 
-### Accounts
+### Accounts tab
 
 Woohoo, you finally built your stealer, now something isn't working or you just don't know to use this tab!
 
@@ -59,3 +59,12 @@ Checks an account for you, all the info is on the right (🔥Premium Feature🔥
 <span style="color:purple">AAP Management</span>
 
 You can bypass aap in this tab, how to do it later on in the wiki
+
+<span style="color:purple">Delete Account</span>
+
+Deletes the account from your accounts list
+
+<span style="color:red">Common Errors:</span>
+
+Only error I know with the accounts tab so far is the checker, sometimes your something can be blocked so you need a vpn to check more accounts (🔴ETERNITY IS FIXING THIS🔴) 
+Once again, if you find any dm me and ill add it here
