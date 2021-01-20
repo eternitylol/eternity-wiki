@@ -48,7 +48,8 @@ Click refresh if you don't see the account, now you see their growid, password, 
 
 <span style="color:purple">Account Info</span>
 
-
+On the right you will see all the saved passwords on the victims browser/browsers and on the right you see their growid, discord token etc. 
+If you want to get the credentials to a txt file press the export button and select the location you want your creds
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
