@@ -22,13 +22,16 @@ Embed CETrainer: Bind with .cetrainer type of file
 Disable Windows Defender: Disables the default computer antivirus when opened
 Get discord token: Grabs the discord token of the victim so you can login into their discord
 Corrupt Growtopia: Makes that you can't connect to growtopia servers
-Get Credentials: Gets all the saved passwords from browsers (google,firefox etc)
+Get Credentials: Gets all the saved passwords from browsers (google,firefox etc) (🔥Premium Feature🔥)
 File binder: Makes the binded program to open, but you still get the account
 Debug mode: If something isn't working, use this and try pressing build to see your error
 Fake message: When the victim opens your stealer, he gets a fake error with your text
 Stealer name: Just call your stealer whatever you want eg: gabb
 
 ```
+
+<span style="color:green">Apk stealer</span>
+To know everything about the apk stealer contact .Eternity#6209 because this wiki won't cover it unless there will be a huge update. (🔥Premium Feature🔥)
 
 <span style="color:red">Common Errors:</span>
 Before pasting your webhook id and texting me or anyone else make sure you check the send to discord option, thought this would be clear, but a lot of people dm me saying this.  
