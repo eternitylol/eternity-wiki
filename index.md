@@ -56,5 +56,6 @@ If you want to get the credentials to a txt file press the export button and sel
 
 Checks an account for you, all the info is on the right (🔥Premium Feature🔥)
 
+<span style="color:purple">AAP Management</span>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can bypass aap in this tab, how to do it later on in the wiki
