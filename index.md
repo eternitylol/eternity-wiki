@@ -42,7 +42,8 @@ Woohoo, you finally built your stealer, now something isn't working or you just 
 <span style="color:blue">Part 1</span> How do you use it?
 First of all, get an account it can be yours or someone elses, doesen't matter. You might be confused since there are too many buttons to klik, but these are the basics.
 Click refresh if you don't see the account, now you see their growid, password, ip and the time they opened the stealer, this should be clear. You can right click the account to see some more features, lets approach them 1 by 1
-<span style="color:purple">Account Info</span>.
+
+<span style="color:purple">Account Info</span>
 
 
 ### Support or Contact
