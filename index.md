@@ -54,7 +54,7 @@ If you want to get the credentials to a txt file press the export button and sel
 
 <span style="color:purple">Check/span>
 
-Checks an account for you, all the info on the right
+Checks an account for you, all the info is on the right (🔥Premium Feature🔥)
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
