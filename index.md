@@ -68,3 +68,13 @@ Deletes the account from your accounts list
 
 Only error I know with the accounts tab so far is the checker, sometimes your something can be blocked so you need a vpn to check more accounts (🔴ETERNITY IS FIXING THIS🔴) 
 Once again, if you find any dm me and ill add it here
+
+### Webhooks tab
+
+You add webhooks here.
+
+<span style="color:green">Adding a webhook</span>
+
+Not gonna cover on how to create a webhook, you can watch that [here](https://www.youtube.com/watch?v=fKksxz2Gdnc&ab_channel=NoIntroTutorials)
+
+Literally just paste the webhook into Webhook URL, then right click on ur webhook and press copy webhook id and go build ur stealer
