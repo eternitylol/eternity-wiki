@@ -97,7 +97,7 @@ Press start proxy/stop proxy for it to start/stop proxy
 
 <span style="color:green">Unbanner</span>
 
-Change MAC -Changes your Mac address, please do not click this button if you don't know you are doing
+Change MAC -Changes your Mac address, please do not click this button if you don't know you are doing.
 Delete Reg -Deletes something in regedit eternity updeitink ka tiksliai
 
 ### Info tab
