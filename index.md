@@ -66,7 +66,7 @@ Deletes the account from your accounts list
 
 <span style="color:red">Common Errors:</span>
 
-Only error I know with the accounts tab so far is the checker, sometimes your something can be blocked so you need a vpn to check more accounts (🔴ETERNITY IS FIXING THIS🔴) 
+When checking sometimes your something can be blocked so you need a vpn to check more accounts (🔴ETERNITY IS FIXING THIS🔴) Also make sure you select the correct version in the Misc tab
 Once again, if you find any dm me and ill add it here
 
 ### Webhooks tab
@@ -78,3 +78,9 @@ You add webhooks here.
 Not gonna cover on how to create a webhook, you can watch that [here](https://www.youtube.com/watch?v=fKksxz2Gdnc&ab_channel=NoIntroTutorials)
 
 Literally just paste the webhook into Webhook URL, then right click on ur webhook and press copy webhook id and go build ur stealer
+
+### Instances tab
+
+eternity plz pac parasyk nenaudoju tavo sudino spammerio
+
+### Misc tab
