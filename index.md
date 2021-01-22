@@ -89,4 +89,18 @@ This is a tab for proxy and unbanning
 
 <span style="color:green">Proxy Hosts Switch</span>
 
-Press enable/disable for it to change/unchange hosts file to the proxy/original
+Press enable hosts/disable hosts for it to change/unchange hosts file to the proxy/original
+
+<span style="color:green">Proxy Manager</span>
+
+Press start proxy/stop proxy for it to start/stop proxy
+
+<span style="color:green">Unbanner</span>
+
+Change MAC -Changes your Mac address, please do not click this button if you don't know you are doing
+Delete Reg -Deletes something in regedit eternity updeitink ka tiksliai
+
+### Info tab
+
+You can't click anything here.
+
