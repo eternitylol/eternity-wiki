@@ -84,3 +84,9 @@ Literally just paste the webhook into Webhook URL, then right click on ur webhoo
 eternity plz pac parasyk nenaudoju tavo sudino spammerio
 
 ### Misc tab
+
+This is a tab for proxy and unbanning
+
+<span style="color:green">Proxy Hosts Switch</span>
+
+Press enable/disable for it to change/unchange hosts file to the proxy/original
